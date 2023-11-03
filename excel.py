@@ -1,8 +1,6 @@
 import os
 import zipfile
 import xml
-import re
-import shutil
 
 from xml.dom import minidom
 
